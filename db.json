@@ -1,0 +1,375 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "role": "private"
+    },
+    {
+      "id": 2,
+      "role": "patient"
+    },
+    {
+      "id": 3,
+      "role": "professional"
+    },
+    {
+      "id": 4,
+      "role": "administrator"
+    },
+    {
+      "id": 5,
+      "role": "organizationAdmin"
+    }
+  ],
+  "users": [
+    {
+      "id": "1234sdfasdfsa1asdf234",
+      "type": "professional",
+      "username": "drJanne",
+      "email": "dggdffgdfg@email.com",
+      "organizations": [
+        "vitalsignum",
+        "phz"
+      ],
+      "organization": "phz",
+      "firstName": "nbvcvbncvncvbn",
+      "lastName": "rrrrrrr",
+      "modified": 1534840685898,
+      "created": 1534837611664,
+      "sex": "0",
+      "height": "2222222",
+      "password1": "gggggggg",
+      "password2": "gggggggg",
+      "weight": "2222",
+      "pulseThresholdResting": "111",
+      "pulseThresholdAerobic": "111",
+      "pulseThresholdMaximum": "111",
+      "speedThreshold": "111",
+      "maximumDifferenceOfExtraBeats": "111"
+    },
+    {
+      "id": "12341asdf234",
+      "type": "professional",
+      "username": "protest2",
+      "email": "asdfasdfasfd@email.com",
+      "organizations": [
+        "vitalsignum",
+        "phz"
+      ],
+      "organization": "vitalsignum",
+      "firstName": "ETUNIMI",
+      "lastName": "asdfasdf",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "12gfdhdf341234",
+      "type": "professional",
+      "username": "protest2",
+      "email": "testi@email.com",
+      "organizations": [
+        "vitalsignum",
+        "phz"
+      ],
+      "organization": "vitalsignum",
+      "firstName": "Pekka",
+      "lastName": "Puoskari",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "123hdfgh41234",
+      "type": "professional",
+      "username": "protest3",
+      "email": "testi@email.com",
+      "organizations": [
+        "vitalsignum",
+        "phz"
+      ],
+      "organization": "vitalsignum",
+      "firstName": "Kimmo",
+      "lastName": "Kirurgi",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "123412dfgh34",
+      "type": "professional",
+      "username": "protest4",
+      "email": "testi@email.com",
+      "organizations": [
+        "vitalsignum",
+        "phz"
+      ],
+      "organization": "vitalsignum",
+      "firstName": "Pirkko",
+      "lastName": "Professionaali",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "1234werthghg1234",
+      "username": "devpatient",
+      "type": "private",
+      "email": "aaa@email.com",
+      "organizations": "",
+      "organization": "",
+      "firstName": "faker.name.firstName()",
+      "lastName": "faker.name.lastName()",
+      "sex": 2,
+      "weight": 88,
+      "height": 188,
+      "age": 41,
+      "pulseThresholdResting": "31231",
+      "pulseThresholdAerobic": "123",
+      "pulseThresholdAnaerobic": "",
+      "pulseThresholdMaximum": "321",
+      "speedThreshold": "123",
+      "maximumDifferenceOfExtraBeats": "123",
+      "modified": 1534840685898,
+      "created": 1534837611664,
+      "password1": "aaaa",
+      "password2": "aaaa"
+    },
+    {
+      "id": "1234jdhgg1234",
+      "username": "1118",
+      "type": "patient",
+      "email": "asdgafg@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664,
+      "firstName": "ssgfsdfg",
+      "lastName": "sdfgsdfgsdfg",
+      "sex": "1",
+      "height": "33",
+      "weight": "345",
+      "pulseThresholdResting": "344",
+      "pulseThresholdAerobic": "543",
+      "pulseThresholdMaximum": "34554",
+      "speedThreshold": "345",
+      "maximumDifferenceOfExtraBeats": "34"
+    },
+    {
+      "id": "12341sdgh234",
+      "username": "DevPatKari",
+      "type": "patient",
+      "email": "tesdgfsdfgsti@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "12341mry234",
+      "username": "Patient0",
+      "type": "patient",
+      "email": "gsdfhtdfg@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "1234serty1234",
+      "username": "Patient3",
+      "type": "patient",
+      "password": "",
+      "email": "aasasaasas@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "1234strh1234",
+      "username": "PtEMC",
+      "type": "patient",
+      "password": "",
+      "email": "kjfghn@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "123hstrh41mghd234",
+      "username": "TEST1000",
+      "type": "patient",
+      "password": "",
+      "email": "dddddddddddddddfsfafsdf@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "1234hsrttg1234",
+      "username": "TESTsakke300",
+      "type": "patient",
+      "password": "",
+      "email": "dddddddddddddd@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664,
+      "password1": "aaa",
+      "password2": "aaaa"
+    },
+    {
+      "id": "1234yuk1234",
+      "username": "TESTsakke301",
+      "type": "patient",
+      "password": "",
+      "email": "eeeeeeeeeeee@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "123mhgfg41234",
+      "username": "devpatient",
+      "type": "patient",
+      "password": "",
+      "email": "kufghf@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "123nghmdsdh41234",
+      "username": "patpasi",
+      "type": "patient",
+      "password": "",
+      "email": "asdfasdfasfdasdf@email.com",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664,
+      "password1": "tttt",
+      "password2": "tttt"
+    },
+    {
+      "id": "12341dfghsdf234",
+      "username": "peruna",
+      "type": "patient",
+      "password": "3f88e642a062f3f972f762e00fb94e42",
+      "email": "ttttttttttttt@asdf.fi",
+      "organizations": "",
+      "organization": "phz",
+      "modified": 1534840685898,
+      "created": 1534837611664
+    },
+    {
+      "id": "9d18db29-2467-49a8-94cc-42c8a8d8758d",
+      "username": "jghjfghj",
+      "type": "professional",
+      "password": "6f9a284c60eb867c40f3e495ceece4a7",
+      "email": "ffffff@gmail.com",
+      "organizations": [
+        "phz"
+      ],
+      "password1": "ff",
+      "password2": "ff"
+    },
+    {
+      "id": "63424669-3e92-4e18-ab64-d5c51cd046c3",
+      "username": "fffffff",
+      "type": "professional",
+      "password": "ffa7eb0e7c7d434ca01131186094667d",
+      "email": "adsfg@asdf.gi",
+      "organizations": [
+        "phz",
+        "vitalsignum"
+      ],
+      "organization": "vitalsignum"
+    },
+    {
+      "id": "ec58183f-5081-49e9-9a03-7fb158320f0e",
+      "username": "asdf",
+      "type": "professional",
+      "password": "16c2c777a5de5740d046528c6ebef0a0",
+      "email": "asdfsdf@asdf-dsf.df",
+      "organizations": [
+        "phz",
+        "vitalsignum"
+      ]
+    },
+    {
+      "id": "fd409456-df65-4327-90cd-fcc4cc3a9195",
+      "username": "asdf",
+      "type": "professional",
+      "email": "AAAAAAAAAAAA@email.com",
+      "organizations": [
+        "phz"
+      ],
+      "password": "16c2c777a5de5740d046528c6ebef0a0"
+    },
+    {
+      "id": "ad5dd93b-67b5-43d8-a239-ea9934ef2863",
+      "username": "jgfjfghj",
+      "type": "professional",
+      "email": "ffffff@gmail.com",
+      "organizations": [
+        "phz"
+      ],
+      "password": "b9fe180a48452d7bd69277adf4793d22",
+      "organization": "phz"
+    },
+    {
+      "id": "a3b50a71-9fe0-4403-aef6-4fe6a1b9166a",
+      "username": "erty",
+      "type": "professional",
+      "email": "eeeee@email.com",
+      "organizations": [],
+      "password": "9fe665016ab8d123e9f3cd3898fc6471"
+    },
+    {
+      "id": "4dbaac85-11a2-4837-960a-59d1b96d8f6c",
+      "username": "asdfasdf",
+      "type": "professional",
+      "email": "asdfsdf@asdf-dsf.df",
+      "organizations": [],
+      "password": "af41c46fae11b810d67196d44dee2a98"
+    },
+    {
+      "id": "3a27f30a-a372-4b0a-9ada-b5d837fa54eb",
+      "username": "asdfasdf",
+      "type": "professional",
+      "email": "aaa@email.com",
+      "organizations": [
+        "phz",
+        "vitalsignum"
+      ],
+      "organization": "vitalsignum",
+      "password": "ffe19c09dfd84b1eb41d24800f1943af"
+    },
+    {
+      "id": "89137170-e2bd-4d38-ad96-db0f12f5ba0e",
+      "username": "asdfasdf",
+      "type": "professional",
+      "email": "aaa@email.com",
+      "organizations": [
+        "vitalsignum",
+        "mehilainen"
+      ],
+      "organization": "mehilainen",
+      "password": "2548b1d6ff41bd7f998e5d3bf2685ffa"
+    },
+    {
+      "id": "dd3b0ca6-284a-40fb-a7bc-a305528e58e7",
+      "username": "qqqqqqqq",
+      "type": "professional",
+      "email": "q@df.fi",
+      "organizations": [
+        "phz",
+        "mehilainen"
+      ],
+      "password": "289f313b3ba741ade26069a10d03a38c",
+      "organization": "phz"
+    }
+  ]
+}
