@@ -371,42 +371,5 @@
       "password": "289f313b3ba741ade26069a10d03a38c",
       "organization": "phz"
     }
-  ],
-  "pinnedRecordings": {
-  "20200216T084059+0200__5940": {
-    "subjectId": "DevPatKari",
-    "annotations": 43,
-    "testlength": 183936,
-    "created": 41234123,
-    "modified": 245252345
-  },
-"20200217T225211+0200__5940": {
-    "subjectId": "patpasi",
-    "annotations": 43,
-    "testlength": 183936,
-    "created": 41234123,
-    "modified": 245252345
-  },
-  "20200217T224321+0200__5940": {
-    "subjectId": "patpasi",
-    "annotations": 43,
-    "testlength": 183936,
-    "created": 41234123,
-    "modified": 245252345
-  },
-  "20200216T085059+0200__5940": {
-    "subjectId": "devpatient",
-    "annotations": 43,
-    "testlength": 183936,
-    "created": 41234123,
-    "modified": 245252345
-  },
-  "20200215T150940+0200__5940": {
-    "subjectId": "DevPatKari",
-    "annotations": 43,
-    "testlength": 183936,
-    "created": 41234123,
-    "modified": 245252345
-  }
-  }
+  ]
 }
